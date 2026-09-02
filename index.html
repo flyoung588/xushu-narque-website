@@ -11,15 +11,15 @@
 <body>
   <div class="grain"></div>
   <header class="nav" id="top">
-    <a class="brand" href="#top" aria-label="序束 NARQUE 首页">
-      <span class="zh">序<span class="inner-plane">｜</span>束</span>
+    <div class="brand" aria-label="序束 NARQUE 语言入口">
+      <a class="zh brand-link active" href="index.html" aria-label="进入序束中文版">序<span class="inner-plane">｜</span>束</a>
       <span class="outer-plane"></span>
-      <span class="en">NARQUE</span>
-    </a>
+      <a class="en brand-link" href="en.html" aria-label="Open NARQUE English website">NARQUE</a>
+    </div>
     <nav>
       <a href="#thesis">我们做什么</a><a href="#sci-age">SCI-AGE</a><a href="#system">发现系统</a>
     </nav>
-    <a class="nav-cta" href="#contact">联系我们 <span>↗</span></a>
+    <div class="nav-tools"><div class="language-switch" aria-label="语言切换"><a class="active" href="index.html">中文</a><span>/</span><a href="en.html">EN</a></div><a class="nav-cta" href="#contact">联系我们 <span>↗</span></a></div>
   </header>
 
   <main>
@@ -129,7 +129,7 @@
       </div>
     </section>
   </main>
-  <footer><div class="brand"><span class="zh">序<span class="inner-plane">｜</span>束</span><span class="outer-plane"></span><span class="en">NARQUE</span></div><p>AI 原生的新生产要素公司</p><p>© 2026 NARQUE</p></footer>
+  <footer><div class="brand"><a class="zh brand-link active" href="index.html">序<span class="inner-plane">｜</span>束</a><span class="outer-plane"></span><a class="en brand-link" href="en.html">NARQUE</a></div><p>AI 原生的新生产要素公司</p><p>© 2026 NARQUE</p></footer>
   <script src="app.js"></script>
 </body>
 </html>
