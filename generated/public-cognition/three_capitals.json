@@ -1,0 +1,68 @@
+{
+  "authority_refs": [
+    "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0"
+  ],
+  "build_id": "c3-corrective-20260917T072747Z",
+  "canonical_hashes": [
+    "d92b0e569fffa728b3f953a6eca0afa58523699ddf138ffa7a09e7f455bace2f",
+    "cebc578a250ac013b9a8f7d205c8fd96993a7aada7e4844eb0db7d85f76131e5",
+    "545c07821a7e50cea23217c54efc4e7c76515855c0762ea8e0b619eb139ce2b9"
+  ],
+  "canonical_refs": [
+    "CAPITAL-DISCOVERY",
+    "CAPITAL-VERIFICATION",
+    "CAPITAL-REALITY"
+  ],
+  "evidence_cutoff": "2026-09-17T15:15:00+08:00",
+  "items": [
+    {
+      "canonical_hash": "d92b0e569fffa728b3f953a6eca0afa58523699ddf138ffa7a09e7f455bace2f",
+      "canonical_text_en": "Discovery Capital: the capacity to produce new candidates, mechanisms, and production functions worth testing.",
+      "canonical_text_zh": "发现资本：持续提出值得验证的新候选、机制与生产函数的能力。",
+      "epistemic_status": "CURRENT",
+      "materiality": "M3",
+      "object_id": "CAPITAL-DISCOVERY",
+      "object_type": "CAPITAL",
+      "public_authority_ref": "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0",
+      "publicability": "D1_PUBLIC_SUMMARY",
+      "status": "CURRENT",
+      "supersedes": [],
+      "translation_status": "WORKING_TRANSLATION",
+      "updated_at": "2026-09-17T15:15:00+08:00"
+    },
+    {
+      "canonical_hash": "cebc578a250ac013b9a8f7d205c8fd96993a7aada7e4844eb0db7d85f76131e5",
+      "canonical_text_en": "Verification Capital: reusable, auditable capability that adjudicates candidates inside explicit envelopes.",
+      "canonical_text_zh": "验证资本：可复用、可审计、在明确边界内裁决候选的能力。",
+      "epistemic_status": "CURRENT",
+      "materiality": "M3",
+      "object_id": "CAPITAL-VERIFICATION",
+      "object_type": "CAPITAL",
+      "public_authority_ref": "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0",
+      "publicability": "D1_PUBLIC_SUMMARY",
+      "status": "CURRENT",
+      "supersedes": [],
+      "translation_status": "WORKING_TRANSLATION",
+      "updated_at": "2026-09-17T15:15:00+08:00"
+    },
+    {
+      "canonical_hash": "545c07821a7e50cea23217c54efc4e7c76515855c0762ea8e0b619eb139ce2b9",
+      "canonical_text_en": "Reality Capital: authoritative physical measurement, experiment access, equipment, materials, and accountable authority.",
+      "canonical_text_zh": "现实资本：可信物理测量、实验入口、设备、材料与责任权威。",
+      "epistemic_status": "CURRENT",
+      "materiality": "M3",
+      "object_id": "CAPITAL-REALITY",
+      "object_type": "CAPITAL",
+      "public_authority_ref": "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0",
+      "publicability": "D1_PUBLIC_SUMMARY",
+      "status": "CURRENT",
+      "supersedes": [],
+      "translation_status": "WORKING_TRANSLATION",
+      "updated_at": "2026-09-17T15:15:00+08:00"
+    }
+  ],
+  "payload_hash": "b322c49bc4b8b1ecc93ab0a617615cdf9fde2db1fff087f73df2c7965f6476a4",
+  "public_projection_receipt": "8f1984bca50940d0a68e15b1a7b5fd78",
+  "publicability": "D1_PUBLIC_SUMMARY",
+  "schema_version": "0.2.0"
+}

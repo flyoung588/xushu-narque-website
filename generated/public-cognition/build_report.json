@@ -1,0 +1,21 @@
+{
+  "build_id": "c3-corrective-20260917T072747Z",
+  "files": {
+    "capability_public.json": "040e7015f1f321d1f3ae7e76ec22f617ce8e204f2a32e1dfb045c0879b65643d",
+    "current_state.json": "9135290fe25b7f67eab09ded1e92fb74e8691cad187f2dec5c87f9bac0f579b4",
+    "mission-xrem-aging-reversal-open-mission.json": "72a92f7e5e74a2c862e4e52741f48c823d2865e08257025dd71995e385adfb5e",
+    "mission-xrem-battery-001.json": "229cc08ac17b056ed4dbb4000654fb3c2e426a2792318e1dbf3b2a005103fc1d",
+    "mission-xrem-solar-001.json": "fe52aef9b5105e4bd6bb029a58106b41d3069841c67a8214cf450d58936691be",
+    "now_at_narque.json": "e7cc19848bed35df0f7fad4d5de3cce1834c30e95ca83ae0a1c49684671b56ab",
+    "three_capitals.json": "567b065a8424c308bdb1472a3dbd53785aab01c6f12e17080addd7a1b6129eac",
+    "verification_capital.json": "85eddc6082ef9775f74149bb8f39609bfcc2b048313c456fb3949971789cb67a",
+    "what_changed.json": "7252a80da9bf7ce3f734edd84457215495094b70db1f367f6f711aab08882c14",
+    "world_model.json": "ed050d308cf52608e95b8998ed72041ee0542110686207c9c9dc4f75411c23fb",
+    "xrem_missions.json": "44cf8e7459537bb3a30627c4233c99ffee04c7df183bb52b6a83ce4d7c6e70a0",
+    "xrem_process.json": "dea570478709aa1baa4e1b6c76ae0f83a04117cc106df5750689be11e9ac88d5"
+  },
+  "generated_at": "2026-09-17T07:27:47.944580+00:00",
+  "network_called": false,
+  "published": false,
+  "schema_version": "0.2.0"
+}

@@ -1,0 +1,44 @@
+{
+  "authority_refs": [
+    "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0"
+  ],
+  "build_id": "c3-corrective-20260917T072747Z",
+  "canonical_hashes": [
+    "1c1ee1bb25ccadafd24b0f8339c1b59221cb3643e67b6d76949edbbc07dea148",
+    "6869f6d7c1ca03f5d5ba1205d95dea20c744211004d7d1d0666cfd7b3fe56aee"
+  ],
+  "canonical_refs": [
+    "CAPABILITY-BASE-PUBLIC",
+    "VERIFICATION-CAPITAL-BASE"
+  ],
+  "card_count_north_star": false,
+  "evidence_cutoff": "2026-09-17T15:15:00+08:00",
+  "payload_hash": "a2fa26d9420f4b6b3841228cb0584a2fccd0404eec295e7f8c7c582c79d7f332",
+  "public_projection_receipt": "301906ac2c2b40a2a10ff48e3932b0f1",
+  "publicability": "D1_PUBLIC_SUMMARY",
+  "schema_version": "0.2.0",
+  "summary": {
+    "authority_ceiling": "Does not replace authoritative physical reality",
+    "canonical_hash": "1c1ee1bb25ccadafd24b0f8339c1b59221cb3643e67b6d76949edbbc07dea148",
+    "canonical_text_en": "The Verification Capital Base has a governed layered build strategy; D3/D4 capability detail is withheld.",
+    "canonical_text_zh": "验证资本底座已形成受治理的分层建设策略；公开视图不披露 D3/D4 能力细节。",
+    "epistemic_status": "STRATEGY_QUALIFIED_CAPABILITIES_NOT_ENUMERATED",
+    "materiality": "M3",
+    "object_id": "CAPABILITY-BASE-PUBLIC",
+    "object_type": "CAPABILITY_CARD",
+    "ood_abstention": "Required",
+    "public_authority_ref": "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0",
+    "publicability": "D1_PUBLIC_SUMMARY",
+    "qualification": "PUBLIC_SUMMARY_ONLY",
+    "requalification": "Freshness and scope dependent",
+    "status": "STRATEGY_QUALIFIED_CAPABILITIES_NOT_ENUMERATED",
+    "supersedes": [],
+    "translation_status": "WORKING_TRANSLATION",
+    "updated_at": "2026-09-17T15:15:00+08:00",
+    "validity_envelope": "No claim that every obligation is covered"
+  },
+  "suppressed_classes": [
+    "D3_INTERNAL",
+    "D4_CORE_SECRET"
+  ]
+}

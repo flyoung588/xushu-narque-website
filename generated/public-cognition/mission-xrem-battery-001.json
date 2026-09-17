@@ -1,0 +1,54 @@
+{
+  "authority_refs": [
+    "C3_MISSION_STATE_AUTHORITY_GATE"
+  ],
+  "build_id": "c3-corrective-20260917T072747Z",
+  "canonical_hashes": [
+    "88410944083f19706864223f9349bb3adfb50b03442097f2591c06484889b99f",
+    "dab6d0c9b76752504fdeeb9e8f46b1187fedf8e95c20a5f66e00aa0299760b48"
+  ],
+  "canonical_refs": [
+    "XREM-BATTERY",
+    "XREM-BATTERY-001"
+  ],
+  "canonical_state_hash": "dab6d0c9b76752504fdeeb9e8f46b1187fedf8e95c20a5f66e00aa0299760b48",
+  "current_blocker": "No binding active Open Mission Control authority and no valid Strategy selection; LG-A exited current Local Game scope after fail-closed requalification.",
+  "current_local_game_public": "NONE",
+  "current_node": "BATTERY_GENESIS_FAIL_RETURN_TO_STRATEGY",
+  "current_stage": "RETURN_TO_STRATEGY_NO_AUTHORIZED_LOCAL_GAME",
+  "disclosure_note": "PUBLIC SUMMARY. Exact Local Game representations, Search traces and proprietary evaluation details are intentionally withheld.",
+  "evidence_cutoff": "2026-09-16T22:26:40+08:00",
+  "execution_authority_public": {
+    "physical_action": "NOT_AUTHORIZED",
+    "search": "NOT_AUTHORIZED"
+  },
+  "falsified_public": [],
+  "game_status": "NONE",
+  "last_material_change": "BATTERY_GENESIS_REQUALIFICATION_FAIL_CLOSED",
+  "last_updated": "2026-09-17T07:27:47.935265+00:00",
+  "mission_id": "XREM-BATTERY-001",
+  "mission_status": "ACTIVE",
+  "name_en": "Battery Lifetime Useful Service",
+  "name_zh": "电池全寿命有效服务",
+  "next_reality_gate": "Human authority must bind active Open Mission Control and complete a valid Strategy selection before any Local Game requalification or Search request.",
+  "not_proven": [
+    "authoritative current Local Game",
+    "GAMEABILITY qualified",
+    "MISSION_BRIDGE qualified",
+    "Search authority",
+    "physical experiment authority",
+    "new battery production function"
+  ],
+  "open_mission_en": "Discover under equivalent or explicitly comparable service, safety and equipment constraints underused battery states, trajectory structures, controllable degrees of freedom or production functions that enable the same physical battery asset to deliver more lifetime useful service.",
+  "open_mission_zh": "在相同或明确可比较的现实服务、安全和设备约束下，发现当前尚未被充分利用的 battery state、trajectory structure、controllable degree of freedom 或 production function，使同一物理 battery asset 能够交付更多 lifetime useful service。",
+  "payload_hash": "8b205ec63028ff1a556391f10556bcc91b2fe9397621bff10fb204e1df577d98",
+  "public_projection_receipt": "MISSION_PROJECTION_BOUND_TO_BUNDLE",
+  "publicability": "D1_PUBLIC_SUMMARY",
+  "schema_version": "0.1.0",
+  "translation_status": "WORKING_TRANSLATION",
+  "unknowns_public": [
+    "GAMEABILITY",
+    "MISSION_BRIDGE",
+    "Reality Interface closure"
+  ]
+}

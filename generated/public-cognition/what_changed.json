@@ -1,0 +1,83 @@
+{
+  "authority_refs": [
+    "XREM_DISCOVERY_VERIFICATION_REALITY_SCARCITY_ANCHOR_v0.2.0"
+  ],
+  "build_id": "c3-corrective-20260917T072747Z",
+  "canonical_hashes": [
+    "9e24f622077c43bf188a0400d2129580eab6fad00889ae35779ff8adf4d7a271",
+    "6869f6d7c1ca03f5d5ba1205d95dea20c744211004d7d1d0666cfd7b3fe56aee",
+    "0a88caa1ae97c2160d0e2e3dd7e7133716e3c321036a6aa85c6fbf0f044f71f5",
+    "84e4750d7a5866f205ef0e9716960b5741bba4d6e794951631283d1b3a494418"
+  ],
+  "canonical_refs": [
+    "SYSTEM-PROCESS-XREM",
+    "VERIFICATION-CAPITAL-BASE",
+    "THEORY-REALITY-SCARCITY-MIGRATION",
+    "GENESIS-CAPITAL-BOUNDARY"
+  ],
+  "entries": [
+    {
+      "affected": "XREM",
+      "date": "2026-09-17",
+      "delta_type": "PROCESS_DELTA",
+      "materiality": "M3",
+      "next_gate": "Human website QA",
+      "what_changed": "The canonical process now includes a pre-Search verification envelope, post-candidate obligations, capability-gap routing and return to Mission/RLA.",
+      "what_did_not_change": "Human Authority and fail-closed Reality authority remain binding.",
+      "why_it_matters": "The website no longer presents an obsolete linear Search-first pipeline."
+    },
+    {
+      "affected": "MACHINE ECONOMY",
+      "date": "2026-09-17",
+      "delta_type": "THEORY_DELTA",
+      "materiality": "M3",
+      "next_gate": "Empirical challenge and falsification",
+      "what_changed": "Discovery, Verification and Reality Capital plus three falsifiable propositions entered canonical cognition.",
+      "what_did_not_change": "They remain theoretical, not empirically established laws.",
+      "why_it_matters": "The public world model now states both insight and epistemic ceiling."
+    },
+    {
+      "affected": "VERIFICATION CAPITAL",
+      "date": "2026-09-17",
+      "delta_type": "CAPABILITY_DELTA",
+      "materiality": "M3",
+      "next_gate": "Obligation coverage evidence",
+      "what_changed": "Core-first plus obligation-driven expansion and L0-L4/On-Demand layers became canonical.",
+      "what_did_not_change": "Card count is not a north star; capability progress is not Mission progress.",
+      "why_it_matters": "Reusable verification is now visible without exposing D3/D4 details."
+    },
+    {
+      "affected": "XREM-BATTERY",
+      "date": "2026-09-17",
+      "delta_type": "PROJECT_STATE_DELTA",
+      "materiality": "M2",
+      "next_gate": "A new qualified Strategy/Local Game authority",
+      "what_changed": "Current Local Game is NONE; Battery returned to Strategy.",
+      "what_did_not_change": "Mission remains ACTIVE; Search and physical experiment remain NOT_AUTHORIZED.",
+      "why_it_matters": "Historical LG-A is no longer displayed as current."
+    },
+    {
+      "affected": "GENESIS CAPITAL",
+      "date": "2026-09-17",
+      "delta_type": "PUBLIC_CLAIM_DELTA",
+      "materiality": "M3",
+      "next_gate": "Separate future authority",
+      "what_changed": "Current/future separation is explicit.",
+      "what_did_not_change": "No operating-fund, fundraising or subscription claim exists.",
+      "why_it_matters": "Strategy is not misrepresented as present financial status."
+    }
+  ],
+  "evidence_cutoff": "2026-09-17T15:15:00+08:00",
+  "payload_hash": "239bcf7e9147977dd6296e7f8a161f2462d837a8c58fad23d5531aaad952ff3d",
+  "public_projection_receipt": "a2a257891520495e85c9e313d28a4d0c",
+  "publicability": "D1_PUBLIC_SUMMARY",
+  "schema_version": "0.2.0",
+  "supported_delta_types": [
+    "PROJECT_STATE_DELTA",
+    "THEORY_DELTA",
+    "PROCESS_DELTA",
+    "CAPABILITY_DELTA",
+    "AUTHORITY_DELTA",
+    "PUBLIC_CLAIM_DELTA"
+  ]
+}
