@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.4.0",
+  "round": "04",
+  "git_commit": "d1104fd4e56dbb79dbee4b6524ea15499ffb6392",
+  "source_tree_hash": "3211de29ad4e6e7bacf603c7fe1005ce31f7d1c99aa9e0e51705e957b73ff1a9",
+  "public_cognition_hash": "067162394cc9f8eb50be45199bdcaa5ab26f7f2ab4e8b03cd9ac7993312d6791",
+  "html_build_hash": "348026af2ed55b4678a44cd6e31255e63a5454ce2ebebe2dd6e4c6fee4b20f8b",
+  "rendered_text_hash": "4af9798c5857cf88e8f169c28de27e61b3673fdeb276998cfd820efbd3c3445f",
+  "route_manifest_hash": "9ecc06f11c50a64b8e8f72b51a117227d9c6514a8ff82b063eee34e477f4a478",
+  "screenshot_manifest_hash": "19abfad1cab3f9973c105e3f7c780a81ecb1133a8d72a263aabaaad182d2cfde",
+  "QA_packet_hash": "8210a08a63e42b18f385d329c705b89d8b3fc259f5a2aba5a697f16f1dfed435",
+  "genesis_fact": "NOT_INCORPORATED",
+  "deploy_authorized": false
+}

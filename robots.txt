@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flyoung588.github.io/xushu-narque-website/sitemap.xml

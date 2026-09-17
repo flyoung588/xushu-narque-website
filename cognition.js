@@ -27,12 +27,13 @@ function missionCard(m,detail=true){
 
 async function renderMissions(){
   const data=await load('xrem_missions.json');
-  document.querySelector('[data-missions]').innerHTML=data.missions.map(m=>missionCard(m)).join('');
+  const target=document.querySelector('[data-missions]');if(!target.children.length)target.innerHTML=data.missions.map(m=>missionCard(m)).join('');
   document.querySelectorAll('[data-cutoff]').forEach(el=>el.textContent=data.evidence_cutoff);
 }
 
 async function renderCurrent(){
   const data=await load('current_state.json');
+  if(document.querySelector('[data-current]').children.length){document.querySelector('[data-cutoff]').textContent=data.evidence_cutoff;return}
   const group=(title,items)=>`<section class="state-group"><h2>${title}</h2>${items.length?items.map(p=>`<article><div>${status(p.status)}<h3>${esc(p.name)}</h3></div><p>${esc(p.current_node)}</p><small>Next gate — ${esc(p.next_gate)}</small></article>`).join(''):'<p class="empty">No public objects in this state.</p>'}</section>`;
   const p=data.project_state;
   document.querySelector('[data-current]').innerHTML=`<section class="proof-grid"><div><h2>PROCESS STATE</h2><p>${esc(data.process_state.summary)}</p></div><div><h2>THEORY STATE</h2><p>${esc(data.theory_state.status)}</p></div><div><h2>CAPABILITY STATE</h2><p>${esc(data.capability_state.status)}</p><small>Mission progress ≠ Capability progress</small></div></section>`+group('WHAT IS ACTIVE',p.active)+group('WHAT IS FROZEN',p.frozen)+group('WHAT IS WAITING',p.waiting)+group('WHAT IS CLOSED / HISTORICAL',p.closed_historical)+`<section class="proof-grid"><div><h2>WHAT IS PROVEN</h2>${list(data.proven)}</div><div><h2>WHAT IS NOT PROVEN</h2>${list(data.not_proven)}</div></section>`;
@@ -41,31 +42,33 @@ async function renderCurrent(){
 
 async function renderChanges(){
   const data=await load('what_changed.json');
+  if(document.querySelector('[data-changes]').children.length)return;
   document.querySelector('[data-changes]').innerHTML=data.entries.map(e=>`<article class="change"><header><time>${esc(e.date)}</time>${status(e.materiality)}${status(e.delta_type)}</header><h2>${esc(e.affected)}</h2><dl><dt>WHAT CHANGED</dt><dd>${esc(e.what_changed)}</dd><dt>WHAT DID NOT CHANGE</dt><dd>${esc(e.what_did_not_change)}</dd><dt>WHY IT MATTERS</dt><dd>${esc(e.why_it_matters)}</dd><dt>NEXT GATE</dt><dd>${esc(e.next_gate)}</dd></dl><footer>Evidence cutoff ${esc(data.evidence_cutoff)} · ${esc(data.payload_hash)}</footer></article>`).join('');
 }
 
 async function renderWorld(){
  const d=await load('world_model.json'), en=document.documentElement.lang.startsWith('en');
  const txt=o=>esc(en?o.canonical_text_en:o.canonical_text_zh);
- document.querySelectorAll('[data-world-model]').forEach(el=>el.innerHTML=`<article><p>${txt(d.definition)}</p></article><div class="capital-grid">${d.theories.map(t=>`<article><h3>${esc(t.object_id.replace('THEORY-','').replaceAll('-',' '))}</h3><p>${txt(t)}</p><small>${esc(t.epistemic_status)}</small></article>`).join('')}</div>`);
+ document.querySelectorAll('[data-world-model]').forEach(el=>{if(!el.children.length)el.innerHTML=`<article><p>${txt(d.definition)}</p></article><div class="capital-grid">${d.theories.map(t=>`<article><h3>${esc(t.object_id.replace('THEORY-','').replaceAll('-',' '))}</h3><p>${txt(t)}</p><small>${esc(t.epistemic_status)}</small></article>`).join('')}</div>`});
 }
 async function renderProcess(){
  const d=await load('xrem_process.json'), en=document.documentElement.lang.startsWith('en');
  const p=d.process;
- document.querySelectorAll('[data-xrem-definition]').forEach(el=>el.textContent=en?d.xrem_definition.canonical_text_en:d.xrem_definition.canonical_text_zh);
- document.querySelectorAll('[data-xrem-process]').forEach(el=>el.innerHTML=p.steps.map((s,i)=>`<li><b>${String(i+1).padStart(2,'0')}</b><span>${esc(s)}</span></li>`).join(''));
+ document.querySelectorAll('[data-xrem-definition]').forEach(el=>{if(!el.textContent.trim())el.textContent=en?d.xrem_definition.canonical_text_en:d.xrem_definition.canonical_text_zh});
+ document.querySelectorAll('[data-xrem-process]').forEach(el=>{if(!el.children.length)el.innerHTML=p.steps.map((s,i)=>`<li><b>${String(i+1).padStart(2,'0')}</b><span>${esc(s)}</span></li>`).join('')});
 }
 async function renderCapitals(){
  const d=await load('three_capitals.json'), en=document.documentElement.lang.startsWith('en');
- document.querySelectorAll('[data-capitals]').forEach(el=>el.innerHTML=d.items.map(x=>`<article><h3>${esc(x.object_id.replace('CAPITAL-',''))}</h3><p>${esc(en?x.canonical_text_en:x.canonical_text_zh)}</p></article>`).join(''));
+ document.querySelectorAll('[data-capitals]').forEach(el=>{if(!el.children.length)el.innerHTML=d.items.map(x=>`<article><h3>${esc(x.object_id.replace('CAPITAL-',''))}</h3><p>${esc(en?x.canonical_text_en:x.canonical_text_zh)}</p></article>`).join('')});
 }
 async function renderVerification(){
  const d=await load('verification_capital.json'), en=document.documentElement.lang.startsWith('en'), b=d.base;
- document.querySelectorAll('[data-verification]').forEach(el=>el.innerHTML=`<p>${esc(en?b.canonical_text_en:b.canonical_text_zh)}</p><div class="layer-grid">${b.layers.map(x=>`<article><b>${esc(x.id)}</b><h3>${esc(x.name)}</h3><small>${esc(x.class)}</small></article>`).join('')}</div><p class="boundary">${esc(b.north_star)}</p>`);
+ document.querySelectorAll('[data-verification]').forEach(el=>{if(!el.children.length)el.innerHTML=`<p>${esc(en?b.canonical_text_en:b.canonical_text_zh)}</p><div class="layer-grid">${b.layers.map(x=>`<article><b>${esc(x.id)}</b><h3>${esc(x.name)}</h3><small>${esc(x.class)}</small></article>`).join('')}</div><p class="boundary">${esc(b.north_star)}</p>`});
 }
 
 async function renderNow(){
   const data=await load('now_at_narque.json');
+  if(document.querySelector('[data-now]').children.length){document.querySelector('[data-now-cutoff]')?.textContent=data.evidence_cutoff;return}
   const en=document.documentElement.lang.startsWith('en');
   document.querySelector('[data-now]').innerHTML=data.items.map(item=>`<a href="${esc(item.href)}"><h3>${esc(en?item.title_en:item.title_zh)}<small>${esc(en?item.title_zh:item.title_en)}</small></h3><p>${esc(en?item.summary_en:item.summary_zh)}</p><span>VIEW CURRENT STATE →</span></a>`).join('');
   document.querySelector('[data-now-cutoff]')?.textContent=data.evidence_cutoff;
@@ -73,6 +76,7 @@ async function renderNow(){
 
 async function renderHomeMissions(){
   const data=await load('xrem_missions.json');
+  if(document.querySelector('[data-home-missions]').children.length)return;
   const en=document.documentElement.lang.startsWith('en');
   document.querySelector('[data-home-missions]').innerHTML=data.missions.map(m=>{
     const id=m.mission_id.includes('SOLAR')?'solar':m.mission_id.includes('BATTERY')?'battery':'aging';
