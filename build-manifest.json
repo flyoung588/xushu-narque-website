@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "pages": 7,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "generated_html": 14,
+  "approved_parent_sha256": "1f277401ba79d641d1730c45c7190f9660dcb1bba0b54e5f08579b658d2500a0",
+  "homepage": "/mnt/data/narque_website_v1_staging/index.html",
+  "status": "STAGING_ONLY / NOT_DEPLOYED"
+}

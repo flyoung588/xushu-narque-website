@@ -1,0 +1,1067 @@
+{
+  "document_title": "NARQUE Website Rebuild: Content, Information Architecture & Visual Baseline",
+  "version": "1.0.0",
+  "date": "2026-10-20",
+  "status": "EDITORIAL_BUILD_BASELINE / HUMAN REVIEW",
+  "no_live_change": true,
+  "approved_parent": "NARQUE_Company_Introduction_Approved_FullText_content.txt",
+  "approved_parent_sha256": "1f277401ba79d641d1730c45c7190f9660dcb1bba0b54e5f08579b658d2500a0",
+  "approved_parent_fulltext": "# 序｜束 NARQUE\n**探索机器经济时代，发现新的生产力，布局未来的稀缺资本**\n\n序束是一家面向机器经济时代的 AI 原生科研与探索企业。\n\n我们相信，人工智能最深远的价值，不只是替代人类完成现有工作，而是推动科学发现、生产方式与资本配置发生根本性变革。\n\n序束以 **METRE 理论研究、XREM 自主科学发现、AIOS 自主投资**构建三大核心体系：研究机器经济的运行规律，发现新的生产可能，布局未来经济中最有价值的稀缺资源。\n\n## 第一层｜机器经济基础理论\n\n### METRE｜机器经济理论与递归进化研究\n\nMETRE（Machine Economics Theory & Recursive Evolution）致力于建立机器经济时代的基础理论体系。\n\n研究机器如何从人类的辅助工具，逐步发展为能够自主组织生产、更新资本、推动知识与技术进化的经济系统，以及这一变化将如何重塑经济增长、资源稀缺性、产业结构与经济制度。\n\nMETRE 为 XREM 的科学探索与 AIOS 的资本配置提供理论指导，并通过科学发现与现实经济活动不断检验、完善和发展理论。\n\n**研究成果：** 已出版英文版《机器经济学》（Machine Economics），并在国际开放科研平台 Zenodo 发表三篇机器经济学研究论文。\n\n## 第二层｜机器经济时代两大核心价值引擎\n\n### 01｜XREM — 找金矿\n**自主 AI 科研系统：发现新的生产力**\n\nXREM（序束递归探索机器）致力于让 AI 自主探索人类未知的科学世界，发现新的科学规律、生产要素和生产函数。\n\n系统以开放探索、数字验证与物理验证相互促进的科研机制为核心，持续积累可复用的科学验证能力，推动科研系统自身递归进化。\n\n**三大文明级科学使命：掌控能源、理解生命、意识延续。**\n\n我们希望通过 AI 自主科研，发现能够突破人类现有科学与技术边界、创造全新生产能力的重大成果。\n\n### 02｜AIOS — 抢码头\n**自主 AI 投资系统：发现并布局未来的稀缺资本**\n\n当智能与数字能力日益丰富，能源、物理资源、关键产能、产业位置和经济控制权等稀缺要素，将成为机器经济时代重要的价值来源。\n\nAIOS 从机器经济的多种未来形态出发，结合全球产业变化、现实经济数据与资本市场价格，研究新价值如何产生、旧价值如何转移，以及谁将获得长期经济收益。\n\n通过持续发现、分析和比较全球投资机会，识别具有战略价值的稀缺资源、产业资产、企业及证券，推动机器主导的投资研究、风险管理与资本配置。\n\n**我们的目标，是找到未来机器经济中不可或缺的关键位置，并通过资本布局参与其长期价值增长。**\n\n## 国际科研合作与联合探索\n\n**英国帝国理工学院｜ARIA**\n\n与帝国理工学院 Francesco Belardinelli 副教授就 MSEC（最小充分可执行约束）科学研究开展交流，探讨联合研究及英国 ARIA *Scaling Trust* 科研资助机会，探索机器如何自主发现并创造实现经济活动所需的关键条件。\n\n**全球前沿 AI 实验室｜MFD**\n\n围绕 MFD（使命—前沿脱耦）这一自主科学发现的基础难题，已向 OpenAI、Anthropic、Google DeepMind 等机构相关研究人员发起科研交流，并拓展 xAI 等前沿研究团队的合作渠道，推动 AI 从解决已知问题走向自主发现真正重要的科学未知。\n\n**Station｜生命科学**\n\n与 Station 团队开展科研交流，并提出基因组到生命发育的合作研究方向，探索如何从人类基因组约 30 亿碱基对所包含的信息出发，发现理解生命形成、发育和复杂生物系统的关键科学杠杆。\n\n---\n\n**序束的长期追求：用理论认识新经济，用科学发现新生产力，用资本布局新稀缺，让机器持续拓展人类文明的可能边界。**",
+  "source_authority": [
+    "Approved one-page Chinese company introduction, 2026-10-20 (verbatim parent)",
+    "XREM Strategic Positioning and Mission Boundary Anchor v0.3.0, human adopted 2026-10-09",
+    "NARQUE Company Strategic Positioning Anchor v0.3.0, human confirmed 2026-10-09",
+    "METRE Three-Engine Architecture v0.1.0, 2026-10-12",
+    "AIOS Full Investment Analysis Method v0.4.1, 2026-10-16",
+    "AIOS Unified Investment Reasoning Candidate v0.5.0, 2026-10-17 (method research only)",
+    "NARQUE Field Anchor v0.5.0, 2026-10-02",
+    "EM Machine-Economy Era Position Paper Candidate v0.7.0, supplied 2026-10-20",
+    "Current GitHub Pages site and GitHub repository flyoung588/xushu-narque-website, reviewed 2026-10-20"
+  ],
+  "information_architecture": [
+    {
+      "id": "home",
+      "zh": "首页",
+      "en": "Home",
+      "path": "index.html",
+      "path_en": "en/index.html"
+    },
+    {
+      "id": "metre",
+      "zh": "METRE",
+      "en": "METRE",
+      "path": "metre.html",
+      "path_en": "en/metre.html"
+    },
+    {
+      "id": "xrem",
+      "zh": "XREM",
+      "en": "XREM",
+      "path": "xrem.html",
+      "path_en": "en/xrem.html"
+    },
+    {
+      "id": "aios",
+      "zh": "AIOS",
+      "en": "AIOS",
+      "path": "aios.html",
+      "path_en": "en/aios.html"
+    },
+    {
+      "id": "research",
+      "zh": "科研成果",
+      "en": "Research",
+      "path": "research.html",
+      "path_en": "en/research.html"
+    },
+    {
+      "id": "collaboration",
+      "zh": "国际合作",
+      "en": "Collaboration",
+      "path": "collaboration.html",
+      "path_en": "en/collaboration.html"
+    },
+    {
+      "id": "about",
+      "zh": "关于序束",
+      "en": "About",
+      "path": "about.html",
+      "path_en": "en/about.html"
+    }
+  ],
+  "pages": [
+    {
+      "id": "home",
+      "path": "index.html",
+      "path_en": "en/index.html",
+      "nav_zh": "首页",
+      "nav_en": "Home",
+      "seo_zh": "序束 NARQUE｜机器经济时代的理论、科学发现与资本探索",
+      "seo_en": "NARQUE | Machine Economy, AI Science and Capital Research",
+      "description_zh": "序束以 METRE 理论研究、XREM 自主科学发现、AIOS 自主投资研究，探索机器经济时代的新生产力与稀缺资本。",
+      "description_en": "Explore NARQUE: METRE machine-economy theory, XREM autonomous scientific discovery, and AIOS investment research.",
+      "blocks": [
+        {
+          "id": "home.hero",
+          "type": "hero",
+          "zh": {
+            "title": "探索机器经济时代，发现新的生产力，布局未来的稀缺资本。",
+            "text": "序束是一家面向机器经济时代的 AI 原生科研与探索企业。\n我们相信，人工智能最深远的价值，不只是替代人类完成现有工作，而是推动科学发现、生产方式与资本配置发生根本性变革。"
+          },
+          "en": {
+            "title": "Exploring the Machine-Economy Era. Discovering New Productive Possibilities. Positioning for Future Scarcity.",
+            "text": "NARQUE is an AI-native research and exploration company focused on the machine-economy era.\nWe believe AI’s most profound potential goes beyond automating existing work: it can transform scientific discovery, the organisation of production, and the allocation of capital."
+          },
+          "target": "metre.html",
+          "links": {
+            "zh": "metre.html",
+            "en": "en/metre.html"
+          }
+        },
+        {
+          "id": "home.framework",
+          "type": "framework",
+          "zh": {
+            "title": "一层理论，两大价值引擎。",
+            "text": "序束以 METRE 理论研究、XREM 自主科学发现、AIOS 自主投资构建三大核心体系：研究机器经济的运行规律，发现新的生产可能，布局未来经济中最有价值的稀缺资源。"
+          },
+          "en": {
+            "title": "One theory foundation. Two engines of value.",
+            "text": "NARQUE develops three connected systems: METRE for theoretical research, XREM for autonomous scientific discovery, and AIOS for investment research. Together they investigate emerging economic laws, expand what can be produced, and identify scarce resources that may shape future value."
+          }
+        },
+        {
+          "id": "home.metre",
+          "type": "feature",
+          "zh": {
+            "title": "METRE｜用理论认识新经济",
+            "text": "研究机器如何从辅助工具逐步发展为能够组织生产、更新资本、推动知识与技术进化的经济系统。METRE 为科学探索与资本研究提供理论指引。"
+          },
+          "en": {
+            "title": "METRE | Understand a New Economic Order",
+            "text": "METRE studies how machines could progress from assisting human work to organising production, renewing capital, and advancing knowledge and technology. Its theories guide the questions explored in science and capital research."
+          },
+          "target": "metre.html",
+          "links": {
+            "zh": "metre.html",
+            "en": "en/metre.html"
+          }
+        },
+        {
+          "id": "home.xrem",
+          "type": "feature",
+          "zh": {
+            "title": "XREM｜找金矿",
+            "text": "序束递归探索机器以探索科学未知为目标，将开放探索、数字验证与物理验证结合，寻找新的科学规律、生产要素与生产函数。"
+          },
+          "en": {
+            "title": "XREM | Discover New Productive Power",
+            "text": "XREM, the Xushu Recursive Exploration Machine, combines open exploration, digital verification, and physical evidence to investigate scientific unknowns and search for new laws, factors of production, and production functions."
+          },
+          "target": "xrem.html",
+          "links": {
+            "zh": "xrem.html",
+            "en": "en/xrem.html"
+          }
+        },
+        {
+          "id": "home.aios",
+          "type": "feature",
+          "zh": {
+            "title": "AIOS｜抢码头",
+            "text": "从多种可能的机器经济未来出发，结合产业变化、现实数据与市场价格，识别长期有价值的稀缺资源、企业、资产与经济控制点。"
+          },
+          "en": {
+            "title": "AIOS | Position for Strategic Scarcity",
+            "text": "AIOS studies multiple possible machine-economy futures alongside industry change, real-world evidence, and market prices to identify scarce resources, companies, assets, and strategic points of economic control."
+          },
+          "target": "aios.html",
+          "links": {
+            "zh": "aios.html",
+            "en": "en/aios.html"
+          }
+        },
+        {
+          "id": "home.missions",
+          "type": "cards",
+          "zh": {
+            "title": "三大文明级科学使命",
+            "text": "掌控能源｜探索能源获取、转化、储运与利用中的未知规律和新能力。\n理解生命｜探索生命的产生、变化、损伤、衰退与再生规律。\n意识延续｜从理解意识、自我与主体性的科学问题出发，探索延续的可能边界。"
+          },
+          "en": {
+            "title": "Three Long-Horizon Scientific Missions",
+            "text": "Mastery of Energy | Explore unknown mechanisms and new capabilities across energy production, conversion, storage, and use.\nUnderstanding Life | Investigate the origin, development, change, damage, ageing, and regeneration of living systems.\nContinuity of Consciousness | Begin with the scientific understanding of consciousness, selfhood, and subjectivity, then examine the boundaries of continuity."
+          },
+          "target": "xrem.html#missions",
+          "links": {
+            "zh": "xrem.html#missions",
+            "en": "en/xrem.html#missions"
+          }
+        },
+        {
+          "id": "home.publications",
+          "type": "feature",
+          "zh": {
+            "title": "公开研究与出版",
+            "text": "从英文版《机器经济学》到公开的机器经济研究论文，序束持续把理论研究、可检验的问题与科学探索带入公共讨论。"
+          },
+          "en": {
+            "title": "Research and Publications",
+            "text": "From the English-language book Machine Economics to publicly available machine-economy research papers, NARQUE brings theory, testable questions, and scientific exploration into public discussion."
+          },
+          "target": "research.html",
+          "links": {
+            "zh": "research.html",
+            "en": "en/research.html"
+          }
+        },
+        {
+          "id": "home.collaboration",
+          "type": "feature",
+          "zh": {
+            "title": "与全球研究者共同探索",
+            "text": "围绕 MSEC、MFD 与基因组到生命发育等重要问题，序束正与国际研究者交流，寻找具有共同科学目标的合作路径。"
+          },
+          "en": {
+            "title": "Explore With Researchers Around the World",
+            "text": "NARQUE engages with international researchers on questions including MSEC, MFD, and genome-to-development science, seeking shared scientific objectives and meaningful ways to collaborate."
+          },
+          "target": "collaboration.html",
+          "links": {
+            "zh": "collaboration.html",
+            "en": "en/collaboration.html"
+          }
+        },
+        {
+          "id": "home.closing",
+          "type": "closing",
+          "zh": {
+            "title": "用理论认识新经济，用科学发现新生产力，用资本布局新稀缺。",
+            "text": "让机器持续拓展人类文明的可能边界。"
+          },
+          "en": {
+            "title": "Understand through theory. Discover through science. Position through capital.",
+            "text": "Our long-term ambition is to expand the frontier of what human civilisation can make possible with machines."
+          },
+          "target": "about.html",
+          "links": {
+            "zh": "about.html",
+            "en": "en/about.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "metre",
+      "path": "metre.html",
+      "path_en": "en/metre.html",
+      "nav_zh": "METRE",
+      "nav_en": "METRE",
+      "seo_zh": "METRE｜机器经济理论与递归进化研究｜序束",
+      "seo_en": "METRE | Machine Economics Theory & Recursive Evolution | NARQUE",
+      "description_zh": "METRE 研究机器经济系统的自持运行、生产资本再生、稀缺性与经济制度演化。",
+      "description_en": "METRE explores machine economic systems, capital reproduction, scarcity, and the evolution of economic institutions.",
+      "blocks": [
+        {
+          "id": "metre.hero",
+          "type": "hero",
+          "zh": {
+            "title": "为机器经济建立基础理论。",
+            "text": "METRE — Machine Economics Theory & Recursive Evolution\n机器经济理论与递归进化研究"
+          },
+          "en": {
+            "title": "Building a Theory of the Machine Economy.",
+            "text": "METRE — Machine Economics Theory & Recursive Evolution\nFoundational research on machine economic systems and their recursive development."
+          }
+        },
+        {
+          "id": "metre.question",
+          "type": "essay",
+          "zh": {
+            "title": "当机器能够持续工作，经济将怎样改变？",
+            "text": "人工智能带来的变化，不只是任务自动化。真正值得研究的是：机器能否在资源、知识、生产和资本约束下，持续完成真实经济活动，并推动生产方式、组织关系与经济制度发生变化。"
+          },
+          "en": {
+            "title": "When Machines Can Work Continuously, How Might Economies Change?",
+            "text": "The economic significance of AI extends beyond task automation. A deeper question is whether machine-operated systems can sustain meaningful economic activity under constraints of resources, knowledge, production, and capital—and how those capabilities might change production, organisation, and institutions."
+          }
+        },
+        {
+          "id": "metre.era",
+          "type": "thesis",
+          "zh": {
+            "title": "机器经济时代：一个需要严格界定的历史概念",
+            "text": "METRE 将“机器完成任务”和“机器经济时代”区分开来。后者指一种历史阶段：能够在没有任何人类参与的条件下自持运行并自主进化的机器经济系统，成为宏观经济组织的主导形态。研究重点是识别这一转变所需的能力、约束与可验证条件。"
+          },
+          "en": {
+            "title": "The Machine-Economy Era: A Historically Specific Concept",
+            "text": "METRE distinguishes machines performing tasks from a historically distinct Machine-Economy Era. The latter describes a stage in which machine-economic systems capable of sustaining operations and evolving autonomously without any human participation have become the predominant form of macroeconomic organisation. Research examines the capabilities, constraints, and evidence such a transition would require."
+          }
+        },
+        {
+          "id": "metre.topics",
+          "type": "cards",
+          "zh": {
+            "title": "四个研究方向",
+            "text": "经济再生产｜机器如何维持必要生产、更新折旧资本并获得持续资源？\n知识与技术进化｜科研发现如何转化为新的可行生产能力？\n稀缺与经济权利｜智能丰裕后，哪些物理与制度约束继续决定价值？\n组织与制度生成｜机器能否在合法权利与真实资源条件下，形成、验证并复用新的经济安排？"
+          },
+          "en": {
+            "title": "Four Research Frontiers",
+            "text": "Economic reproduction | How can machine systems maintain essential production, replace depreciating capital, and access continuing resources?\nKnowledge and technical evolution | How can validated discoveries expand feasible productive capabilities?\nScarcity and economic rights | Which physical and institutional constraints will govern value as intelligence becomes more abundant?\nInstitutional formation | Under valid rights and real resource constraints, can machines compose, qualify, and reuse new economic arrangements?"
+          }
+        },
+        {
+          "id": "metre.method",
+          "type": "essay",
+          "zh": {
+            "title": "让理论不断接受现实检验",
+            "text": "METRE 从重要问题出发，通过定义、形式化模型、反例、现实证据和竞争解释不断修订理论。理论既为 XREM 提供科学问题的经济背景，也帮助 AIOS 识别资本配置可能面对的新约束。"
+          },
+          "en": {
+            "title": "Theory in Continuous Dialogue With Reality",
+            "text": "METRE starts from consequential questions and refines its models through explicit definitions, formal reasoning, counterexamples, observed evidence, and competing explanations. Its research informs the economic context for XREM’s scientific questions and the changing constraints studied by AIOS."
+          }
+        },
+        {
+          "id": "metre.book",
+          "type": "feature",
+          "zh": {
+            "title": "《机器经济学》｜Machine Economics",
+            "text": "英文版《机器经济学》讨论机器主体、生产、需求、资本、稀缺性与经济秩序，是序束持续发展的机器经济思想研究的一部分。"
+          },
+          "en": {
+            "title": "Machine Economics | The Book",
+            "text": "The English-language book Machine Economics examines machine actors, production, demand, capital, scarcity, and economic order as part of NARQUE’s evolving research programme."
+          },
+          "target": "research.html#book",
+          "links": {
+            "zh": "research.html#book",
+            "en": "en/research.html#book"
+          }
+        },
+        {
+          "id": "metre.papers",
+          "type": "feature",
+          "zh": {
+            "title": "机器经济学研究论文",
+            "text": "三篇机器经济学研究论文已在 Zenodo 公开。研究页面集中提供论文入口、题目、版本与学术引用信息。"
+          },
+          "en": {
+            "title": "Machine-Economy Research Papers",
+            "text": "Three machine-economy research papers have been made publicly available on Zenodo. The research library brings together their full texts, versions, and citation details."
+          },
+          "target": "research.html#papers",
+          "links": {
+            "zh": "research.html#papers",
+            "en": "en/research.html#papers"
+          }
+        },
+        {
+          "id": "metre.closing",
+          "type": "closing",
+          "zh": {
+            "title": "发现新的经济规律，才能更好地选择未来。",
+            "text": "METRE 是序束连接科学发现与长期资本研究的理论基础。"
+          },
+          "en": {
+            "title": "Better Models of the Economy Enable Better Choices About the Future.",
+            "text": "METRE provides the theoretical foundation connecting scientific exploration and long-horizon capital research."
+          },
+          "target": "research.html",
+          "links": {
+            "zh": "research.html",
+            "en": "en/research.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xrem",
+      "path": "xrem.html",
+      "path_en": "en/xrem.html",
+      "nav_zh": "XREM",
+      "nav_en": "XREM",
+      "seo_zh": "XREM｜序束递归探索机器｜自主 AI 科研",
+      "seo_en": "XREM | Autonomous Scientific Discovery | NARQUE",
+      "description_zh": "XREM 通过开放探索、数字验证、物理验证，探索未知并寻找新的生产要素和生产函数。",
+      "description_en": "XREM combines open exploration, digital verification and physical evidence to investigate scientific unknowns.",
+      "blocks": [
+        {
+          "id": "xrem.hero",
+          "type": "hero",
+          "zh": {
+            "title": "让 AI 自主探索人类未知的科学世界。",
+            "text": "XREM — Xushu Recursive Exploration Machine\n序束递归探索机器"
+          },
+          "en": {
+            "title": "Let AI Explore the Scientific Unknown.",
+            "text": "XREM — Xushu Recursive Exploration Machine\nAn autonomous scientific discovery, verification and recursive-learning system."
+          }
+        },
+        {
+          "id": "xrem.mission",
+          "type": "essay",
+          "zh": {
+            "title": "找金矿：寻找新的生产要素与生产函数",
+            "text": "我们希望让机器不仅能够解答现有问题，还能主动构造科学问题、探索未知规律，并找到可能突破现实生产边界的新知识、新技术与新能力。发现本身首先必须经得起科学检验。"
+          },
+          "en": {
+            "title": "Discover New Factors and Functions of Production",
+            "text": "We aim for machines to do more than answer established questions: to formulate scientific problems, explore unknown regularities, and discover knowledge, technologies, and capabilities that may expand the boundaries of production. Any claimed discovery must first withstand scientific scrutiny."
+          }
+        },
+        {
+          "id": "xrem.missions",
+          "type": "cards",
+          "zh": {
+            "title": "三大文明级科学使命",
+            "text": "M1｜掌控能源：研究能源获取、转化、储运与利用中的未知规律和可控能力。\nM2｜理解生命：研究生命产生、发育、衰退与再生的基本规律。\nM3｜意识延续：首先理解意识、主体性与自我持续的规律，探索可能实现意识延续所需的科学条件。"
+          },
+          "en": {
+            "title": "Three Civilisation-Scale Scientific Missions",
+            "text": "M1 | Mastery of Energy: investigate unknown mechanisms and controllable capabilities in energy production, conversion, storage, and use.\nM2 | Understanding Life: investigate foundational mechanisms of life, development, ageing, and regeneration.\nM3 | Continuity of Consciousness: first investigate consciousness, subjectivity, and the persistence of self, then explore the scientific conditions relevant to continuity."
+          }
+        },
+        {
+          "id": "xrem.mechanism",
+          "type": "cards",
+          "zh": {
+            "title": "探索、验证、Reality 相互反馈",
+            "text": "开放探索｜从现象、异常与未知出发，提出新问题、假设和研究方向。\n数字验证｜利用数学、计算、模型与合格数据，检验和筛选可明确判断的科学主张。\n物理验证｜借助观察、实验、仪器与工业现实，检验需要真实世界证据的假设。"
+          },
+          "en": {
+            "title": "Exploration, Verification, and Reality in Dialogue",
+            "text": "Open exploration | Start with observations, anomalies, and unknowns to generate questions, hypotheses, and search directions.\nDigital verification | Use mathematics, computation, models, and qualified data to test scientific claims within clear scopes.\nPhysical verification | Use observations, experiments, instruments, and industrial reality to investigate claims that require real-world evidence."
+          }
+        },
+        {
+          "id": "xrem.capital",
+          "type": "essay",
+          "zh": {
+            "title": "积累可以反复使用的科学验证能力",
+            "text": "XREM 不只追求更多假设，还重视更可靠地识别哪些假设值得检验。经过验证的方法、有效适用范围、失败经验和实验反馈，能够帮助下一轮科研减少无效探索、提高判断质量。"
+          },
+          "en": {
+            "title": "Build Reusable Scientific Verification Capital",
+            "text": "XREM seeks not merely to generate more hypotheses, but to improve the reliability of deciding which hypotheses deserve further investigation. Qualified methods, known operating limits, failure evidence, and experimental feedback can make subsequent research more selective and effective."
+          }
+        },
+        {
+          "id": "xrem.mfd",
+          "type": "feature",
+          "zh": {
+            "title": "MFD｜怎样找到真正重要的科学未知？",
+            "text": "使命—前沿脱耦（Mission–Frontier Decoupling，MFD）研究一个基础问题：当已有知识和熟悉的验证路径不断吸引机器时，怎样保持对真正重要、但尚未被充分认识的科学前沿的探索能力？"
+          },
+          "en": {
+            "title": "MFD | How Can AI Find the Right Scientific Frontier?",
+            "text": "Mission–Frontier Decoupling (MFD) studies a foundational question: when existing knowledge and familiar verification paths pull research toward well-defined problems, how can AI continue selecting genuinely important scientific unknowns?"
+          },
+          "target": "research.html#mfd",
+          "links": {
+            "zh": "research.html#mfd",
+            "en": "en/research.html#mfd"
+          }
+        },
+        {
+          "id": "xrem.recursion",
+          "type": "essay",
+          "zh": {
+            "title": "让一次科研经验改变下一次科研",
+            "text": "“递归”意味着发现、验证、失败与现实反馈不只是被保存，而是能够改善后续的问题选择、探索方法和验证能力。XREM 希望把这种跨任务的有效进步建设成长期科研能力。"
+          },
+          "en": {
+            "title": "Make Scientific Experience Improve Future Research",
+            "text": "“Recursive” means that discovery, verification, failures, and real-world feedback should do more than accumulate in an archive: they should improve future research questions, exploration methods, and verification capabilities across tasks."
+          }
+        },
+        {
+          "id": "xrem.closing",
+          "type": "closing",
+          "zh": {
+            "title": "探索未知，不以现有知识地图为边界。",
+            "text": "了解序束的科学使命与研究方向。"
+          },
+          "en": {
+            "title": "Explore Beyond the Edges of Today’s Knowledge Map.",
+            "text": "Explore NARQUE’s scientific missions and research directions."
+          },
+          "target": "research.html",
+          "links": {
+            "zh": "research.html",
+            "en": "en/research.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aios",
+      "path": "aios.html",
+      "path_en": "en/aios.html",
+      "nav_zh": "AIOS",
+      "nav_en": "AIOS",
+      "seo_zh": "AIOS｜机器经济时代的自主投资研究｜序束",
+      "seo_en": "AIOS | Investment Research for the Machine Economy | NARQUE",
+      "description_zh": "AIOS 结合机器经济终局、现实产业变化和资本市场价格，研究未来稀缺资本与投资机会。",
+      "description_en": "AIOS connects machine-economy futures, real-world economic change, and market expectations to study scarce capital.",
+      "blocks": [
+        {
+          "id": "aios.hero",
+          "type": "hero",
+          "zh": {
+            "title": "发现未来经济真正稀缺的东西。",
+            "text": "AIOS — AI Investment Operating System\n自主 AI 投资系统：发现并布局未来的稀缺资本。"
+          },
+          "en": {
+            "title": "Find What Will Remain Scarce.",
+            "text": "AIOS — AI Investment Operating System\nInvestment research focused on the scarce capital, productive assets, and economic rights that may matter most in the machine economy."
+          }
+        },
+        {
+          "id": "aios.thesis",
+          "type": "essay",
+          "zh": {
+            "title": "抢码头：发现机器经济必经的关键位置",
+            "text": "当智能与数字能力日益丰富，价值未必停留在最容易复制的软件中。能源、接电能力、关键产能、产业位置、真实数据及合法经济权利，可能成为新增长过程中最重要的约束与资本。"
+          },
+          "en": {
+            "title": "Position for the Critical Junctions of the Machine Economy",
+            "text": "As intelligence and digital capabilities become more abundant, value will not necessarily remain in easily replicated software. Energy, grid access, productive capacity, industrial location, unique data, and legally effective rights may become critical constraints—and sources of capital value."
+          }
+        },
+        {
+          "id": "aios.three",
+          "type": "cards",
+          "zh": {
+            "title": "三个方向，理解同一个投资世界",
+            "text": "未来倒推｜从多种可能的机器经济形态，推演必要的技术、生产和资源变化。\n现实正推｜从产业、科学、企业、政策和基础设施的真实变化，识别新的经济机会。\n价格反推｜从证券与资产价格出发，研究市场已计入什么预期、遗漏了什么风险与变化。"
+          },
+          "en": {
+            "title": "Three Ways of Reasoning About the Same Investment World",
+            "text": "Future backcasting | Start from multiple plausible machine-economy futures and infer necessary changes in technology, production, and resources.\nReality-forward analysis | Start from observed scientific, industrial, corporate, policy, and infrastructure changes to identify emerging economic mechanisms.\nPrice-implied reasoning | Start from securities and asset prices to examine expectations already reflected by markets, along with neglected risks and changes."
+          }
+        },
+        {
+          "id": "aios.chain",
+          "type": "essay",
+          "zh": {
+            "title": "从宏观变化，走到真正属于谁的收益",
+            "text": "一项技术突破或者资源紧缺，并不自动创造可投资收益。AIOS 进一步研究客户是否愿意支付、生产成本怎样改变、谁掌握稀缺权利、企业能留下多少经济收益，以及这些变化如何映射到资本价格。"
+          },
+          "en": {
+            "title": "From Economic Change to the Rightful Beneficiary",
+            "text": "A technical breakthrough or resource shortage does not automatically create an investable return. AIOS examines who pays, how full costs change, which parties hold scarce rights, how much economic surplus companies can retain, and how those changes may be reflected in capital prices."
+          }
+        },
+        {
+          "id": "aios.scarcity",
+          "type": "cards",
+          "zh": {
+            "title": "重点关注的现实稀缺资本",
+            "text": "能源与接电｜供电容量、接入时间、灵活负荷和区域位置。\n关键基础设施｜数据中心、制造、计算、运输与工业服务能力。\n真实产能与权利｜生产设备、实验吞吐、必要许可、关键合同和供应链入口。"
+          },
+          "en": {
+            "title": "Real-World Scarcity Under Study",
+            "text": "Energy and access | Deliverable power, grid connection timing, flexible loads, and geography.\nCritical infrastructure | Data centres, manufacturing, compute, transportation, and industrial services.\nProductive capacity and rights | Physical equipment, experimental throughput, permissions, strategic contracts, and supply-chain access."
+          },
+          "target": "aios.html#scarcity",
+          "links": {
+            "zh": "aios.html#scarcity",
+            "en": "en/aios.html#scarcity"
+          }
+        },
+        {
+          "id": "aios.method",
+          "type": "essay",
+          "zh": {
+            "title": "用持续研究，而不是一次预测，形成资本判断",
+            "text": "AIOS 将竞争性未来、现实数据、经济价值、权利结构与市场价格放在同一研究对象中，持续比较替代路径、风险与机会成本，让新的证据不断改变投资判断。"
+          },
+          "en": {
+            "title": "A Continuous Research Process, Not a One-Time Forecast",
+            "text": "AIOS considers competing futures, real-world evidence, economic value, ownership and contractual rights, and market prices in a shared research framework. New information can alter the thesis, the alternatives, the risks, and the opportunity cost of capital."
+          }
+        },
+        {
+          "id": "aios.bridge",
+          "type": "feature",
+          "zh": {
+            "title": "科学发现与资本研究互相启发",
+            "text": "XREM 可能打开新的技术与生产边界；AIOS 可以从产业、资源与投资研究中识别值得探索的科学瓶颈。METRE 提供共同的理论语言，现实验证帮助三者不断修正判断。"
+          },
+          "en": {
+            "title": "Science and Capital Research Inform Each Other",
+            "text": "XREM may expand technological and productive possibilities. AIOS may reveal scientific bottlenecks through its analysis of industries, resources, and investment opportunities. METRE provides a shared theoretical language, and real-world evidence helps all three refine their questions."
+          },
+          "target": "metre.html",
+          "links": {
+            "zh": "metre.html",
+            "en": "en/metre.html"
+          }
+        },
+        {
+          "id": "aios.closing",
+          "type": "closing",
+          "zh": {
+            "title": "从未来的变化中，识别今天的关键位置。",
+            "text": "深入了解序束的机器经济研究与资本逻辑。"
+          },
+          "en": {
+            "title": "Identify Today’s Critical Positions in Tomorrow’s Economy.",
+            "text": "Explore NARQUE’s research on the machine economy and capital."
+          },
+          "target": "research.html",
+          "links": {
+            "zh": "research.html",
+            "en": "en/research.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "path": "research.html",
+      "path_en": "en/research.html",
+      "nav_zh": "科研成果",
+      "nav_en": "Research",
+      "seo_zh": "科研成果与出版｜序束 NARQUE",
+      "seo_en": "Research and Publications | NARQUE",
+      "description_zh": "阅读《机器经济学》、Zenodo 机器经济论文，以及 XREM、MFD、MSEC 等前沿科研方向。",
+      "description_en": "Explore Machine Economics, NARQUE research papers, and emerging programmes in XREM, MFD and MSEC.",
+      "blocks": [
+        {
+          "id": "research.hero",
+          "type": "hero",
+          "zh": {
+            "title": "研究、写作与可检验的未知。",
+            "text": "这里汇集序束关于机器经济、科学发现方法和未来生产力的公开研究，连接思想、论文与不断发展的研究问题。"
+          },
+          "en": {
+            "title": "Research. Publications. Questions Worth Testing.",
+            "text": "Explore NARQUE’s publicly shared research on machine economics, scientific discovery methods, and future productive capabilities—connecting ideas, publications, and evolving scientific questions."
+          }
+        },
+        {
+          "id": "research.book",
+          "type": "feature",
+          "zh": {
+            "title": "《机器经济学》｜英文版",
+            "text": "研究机器成为经济活动的重要执行者后，生产、需求、资本、风险、稀缺性与制度可能出现的变化。它既是一部面向新经济的思想作品，也是序束后续理论研究的公共入口。"
+          },
+          "en": {
+            "title": "Machine Economics | English Edition",
+            "text": "The book explores how production, demand, capital, risk, scarcity, and institutions might change as machines become consequential economic actors. It is both a work of ideas and a public entry point to NARQUE’s ongoing theoretical research."
+          },
+          "target": "research.html#book",
+          "links": {
+            "zh": "research.html#book",
+            "en": "en/research.html#book"
+          }
+        },
+        {
+          "id": "research.papers",
+          "type": "feature",
+          "zh": {
+            "title": "机器经济学研究论文｜Zenodo",
+            "text": "围绕机器经济时代的判定、生产能力更新及经济系统演化等问题，序束已在 Zenodo 公开三篇机器经济学研究论文。读者可以沿着论文、版本与引用记录继续追踪研究的发展。"
+          },
+          "en": {
+            "title": "Machine-Economy Research Papers | Zenodo",
+            "text": "NARQUE has made three machine-economy research papers publicly available on Zenodo, addressing questions such as the characterisation of a machine-economy era, renewal of productive capacity, and economic-system evolution. Readers can follow the papers, versions, and citation records."
+          },
+          "target": "research.html#papers",
+          "editorial_note": "Individual titles/DOIs and outgoing links are bibliographic metadata and must be checked against actual Zenodo records before deployment.",
+          "links": {
+            "zh": "research.html#papers",
+            "en": "en/research.html#papers"
+          }
+        },
+        {
+          "id": "research.xrem",
+          "type": "feature",
+          "zh": {
+            "title": "XREM｜自主科学发现",
+            "text": "面向掌控能源、理解生命、意识延续三大使命，序束研究机器如何提出未知问题、调用数字与物理验证，并将有效科研经验持续转化为新的能力。"
+          },
+          "en": {
+            "title": "XREM | Autonomous Scientific Discovery",
+            "text": "Across energy, life, and consciousness, XREM investigates how machines can formulate unknown questions, use digital and physical verification, and turn qualified research experience into new capabilities."
+          },
+          "target": "xrem.html",
+          "links": {
+            "zh": "xrem.html",
+            "en": "en/xrem.html"
+          }
+        },
+        {
+          "id": "research.mfd",
+          "type": "feature",
+          "zh": {
+            "title": "MFD｜自主发现科学前沿",
+            "text": "使命—前沿脱耦（MFD）追问：AI 能否识别真正重要的科学未知，而不是只沿人类已经熟悉的问题和验证路径不断深入？研究尝试构造可反驳的比较和新的科学问题选择方法。"
+          },
+          "en": {
+            "title": "MFD | Autonomous Scientific Frontier Selection",
+            "text": "Mission–Frontier Decoupling (MFD) asks whether AI can identify consequential scientific unknowns rather than merely deepen established problems and familiar verification pathways. The research develops falsifiable comparisons and methods for choosing scientific frontiers."
+          },
+          "target": "collaboration.html#mfd",
+          "links": {
+            "zh": "collaboration.html#mfd",
+            "en": "en/collaboration.html#mfd"
+          }
+        },
+        {
+          "id": "research.msec",
+          "type": "feature",
+          "zh": {
+            "title": "MSEC｜寻找促成经济活动的最小充分条件",
+            "text": "MSEC 研究机器如何从真实交易目标与障碍出发，发现完成经济活动所需的最小充分可执行条件，并在现有路径不足时探索新的能力和协作安排。"
+          },
+          "en": {
+            "title": "MSEC | Minimal Conditions for Executable Economic Activity",
+            "text": "MSEC studies how machines can discover the minimum sufficient executable conditions for a transaction from its actual goals and obstacles, and explore new capabilities or cooperative arrangements when existing paths are insufficient."
+          },
+          "target": "collaboration.html#msec",
+          "links": {
+            "zh": "collaboration.html#msec",
+            "en": "en/collaboration.html#msec"
+          }
+        },
+        {
+          "id": "research.aios",
+          "type": "feature",
+          "zh": {
+            "title": "AIOS｜机器经济投资研究",
+            "text": "研究新生产能力如何形成经济价值，以及价值如何通过产业、权利、资本成本和价格传导到资产与企业。"
+          },
+          "en": {
+            "title": "AIOS | Investment Research in the Machine Economy",
+            "text": "Study how new productive capabilities create economic value, and how that value may flow through industries, rights, capital costs, and prices to companies and assets."
+          },
+          "target": "aios.html",
+          "links": {
+            "zh": "aios.html",
+            "en": "en/aios.html"
+          }
+        },
+        {
+          "id": "research.updates",
+          "type": "feature",
+          "zh": {
+            "title": "研究动态｜正在发生的新变化",
+            "text": "阅读序束公开的重要研究进展，包括新的理论成果、科学问题、研究方法与国际科研交流。每条更新连接到可以继续深入阅读的原始研究页面。"
+          },
+          "en": {
+            "title": "Research Updates | New Developments",
+            "text": "Follow meaningful developments in NARQUE’s theory, scientific questions, methods, and international research dialogue. Each update links to a research record where the ideas can be explored in depth."
+          },
+          "target": "research.html#updates",
+          "links": {
+            "zh": "research.html#updates",
+            "en": "en/research.html#updates"
+          }
+        },
+        {
+          "id": "research.insights",
+          "type": "feature",
+          "zh": {
+            "title": "研究如何改变我们的认识",
+            "text": "好研究既包括新的发现，也包括足以改变方向的反例、失败和新问题。序束将重要认知转变汇集为可追溯的研究故事。"
+          },
+          "en": {
+            "title": "How Research Changes Our Thinking",
+            "text": "Good research includes discovery, but also counterexamples, failed attempts, and questions that change the direction of inquiry. NARQUE curates consequential changes in understanding as research stories."
+          },
+          "target": "research.html#insights",
+          "links": {
+            "zh": "research.html#insights",
+            "en": "en/research.html#insights"
+          }
+        },
+        {
+          "id": "research.archive",
+          "type": "feature",
+          "zh": {
+            "title": "研究档案｜保留探索的来路",
+            "text": "太阳能、电池、衰老等历史研究项目及早期公开稿在档案中保留各自的语境。今天的 XREM 科学使命与研究体系以当前战略定位为准。"
+          },
+          "en": {
+            "title": "Research Archive | Preserving the Path",
+            "text": "Historical programmes on solar energy, batteries, ageing and earlier public papers remain accessible in context. Current scientific directions are presented through today’s XREM mission architecture."
+          },
+          "target": "research.html#archive",
+          "links": {
+            "zh": "research.html#archive",
+            "en": "en/research.html#archive"
+          }
+        },
+        {
+          "id": "research.closing",
+          "type": "closing",
+          "zh": {
+            "title": "每一次公开研究，都应让下一次探索走得更远。",
+            "text": "阅读理论，探索研究计划，与序束交流值得解决的问题。"
+          },
+          "en": {
+            "title": "Each Publication Should Help the Next Inquiry Go Further.",
+            "text": "Explore the theory, study the research programmes, and discuss questions worth solving."
+          },
+          "target": "collaboration.html",
+          "links": {
+            "zh": "collaboration.html",
+            "en": "en/collaboration.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "path": "collaboration.html",
+      "path_en": "en/collaboration.html",
+      "nav_zh": "国际合作",
+      "nav_en": "Collaboration",
+      "seo_zh": "国际科研合作｜序束 NARQUE",
+      "seo_en": "Global Research Collaboration | NARQUE",
+      "description_zh": "序束与国际研究者围绕 MSEC、MFD、基因组到生命发育等前沿议题交流，探索合作研究。",
+      "description_en": "NARQUE explores international research collaborations on MSEC, MFD and genome-to-development science.",
+      "blocks": [
+        {
+          "id": "collaboration.hero",
+          "type": "hero",
+          "zh": {
+            "title": "与全球研究者一起，走向未知。",
+            "text": "重大科学问题不属于一家公司，也不会被一种模型独自解决。序束希望围绕明确的研究问题，连接不同学科、实验能力与科学方法，让真正重要的未知获得更深入的探索。"
+          },
+          "en": {
+            "title": "Exploring the Unknown, With Researchers Worldwide.",
+            "text": "The deepest scientific questions are not owned by one organisation, nor solved by one model alone. NARQUE seeks to connect disciplines, experimental capabilities, and scientific methods around well-defined questions that deserve deeper exploration."
+          }
+        },
+        {
+          "id": "collaboration.msec",
+          "type": "partner",
+          "zh": {
+            "title": "帝国理工学院｜MSEC × ARIA",
+            "text": "与帝国理工学院 Francesco Belardinelli 副教授就 MSEC（最小充分可执行约束）科学研究开展交流，探讨联合研究及英国 ARIA Scaling Trust 科研资助机会，探索机器如何自主发现并创造实现经济活动所需的关键条件。"
+          },
+          "en": {
+            "title": "Imperial College London | MSEC × ARIA",
+            "text": "NARQUE is in research dialogue with Associate Professor Francesco Belardinelli of Imperial College London on MSEC (Minimum Sufficient Executable Constraints), exploring a possible joint research direction and an opportunity under ARIA’s Scaling Trust programme. The question is how machines might discover and create the enabling conditions required for economic interactions."
+          },
+          "target": "research.html#msec",
+          "links": {
+            "zh": "research.html#msec",
+            "en": "en/research.html#msec"
+          }
+        },
+        {
+          "id": "collaboration.mfd",
+          "type": "partner",
+          "zh": {
+            "title": "全球前沿 AI 实验室｜MFD",
+            "text": "围绕 MFD（使命—前沿脱耦）这一自主科学发现的基础难题，已向 OpenAI、Anthropic、Google DeepMind 等机构相关研究人员发起科研交流，并拓展 xAI 等前沿研究团队的合作渠道，推动 AI 从解决已知问题走向自主发现真正重要的科学未知。"
+          },
+          "en": {
+            "title": "Frontier AI Researchers | MFD",
+            "text": "NARQUE has initiated scientific outreach to researchers associated with OpenAI, Anthropic, and Google DeepMind, while developing connections toward other frontier teams including xAI. The focus is MFD (Mission–Frontier Decoupling): enabling AI to move beyond solving known problems toward independently finding consequential scientific unknowns."
+          },
+          "target": "research.html#mfd",
+          "links": {
+            "zh": "research.html#mfd",
+            "en": "en/research.html#mfd"
+          }
+        },
+        {
+          "id": "collaboration.station",
+          "type": "partner",
+          "zh": {
+            "title": "Station｜从基因组到生命发育",
+            "text": "与 Station 团队开展科研交流，并提出基因组到生命发育的合作研究方向，探索如何从人类基因组约 30 亿碱基对所包含的信息出发，发现理解生命形成、发育和复杂生物系统的关键科学杠杆。"
+          },
+          "en": {
+            "title": "Station | From Genome to Development",
+            "text": "NARQUE has exchanged research ideas with the Station team and proposed a genome-to-development collaboration direction. The aim is to investigate how information encoded in the roughly three billion base pairs of the human genome interacts with the conditions of living systems—and where scientifically decisive leverage points may lie."
+          },
+          "target": "xrem.html#missions",
+          "links": {
+            "zh": "xrem.html#missions",
+            "en": "en/xrem.html#missions"
+          }
+        },
+        {
+          "id": "collaboration.approach",
+          "type": "essay",
+          "zh": {
+            "title": "从共同的科学问题开始合作",
+            "text": "我们欢迎能够提出有区分力的问题、贡献严格验证方法、提供真实实验条件，或从不同领域带来重要反例的研究者与机构。合作可以从一项理论讨论、一个可复现实验或一个清晰的研究提案开始。"
+          },
+          "en": {
+            "title": "Collaboration Begins With a Shared Scientific Question",
+            "text": "We welcome researchers and institutions able to frame discriminating questions, contribute rigorous verification, provide real experimental capacity, or bring strong counterexamples from other fields. A collaboration can begin with a theoretical conversation, a reproducible experiment, or a sharply defined research proposal."
+          }
+        },
+        {
+          "id": "collaboration.closing",
+          "type": "closing",
+          "zh": {
+            "title": "重要的未知，值得不同的智慧共同探索。",
+            "text": "如果你的研究与机器经济、自主科学发现或未来生产力相关，欢迎与序束交流。"
+          },
+          "en": {
+            "title": "Important Unknowns Deserve More Than One Perspective.",
+            "text": "If your work connects with machine economics, autonomous scientific discovery, or future productive capabilities, we welcome a research conversation."
+          },
+          "target": "about.html#contact",
+          "links": {
+            "zh": "about.html#contact",
+            "en": "en/about.html#contact"
+          }
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "path": "about.html",
+      "path_en": "en/about.html",
+      "nav_zh": "关于序束",
+      "nav_en": "About",
+      "seo_zh": "关于序束｜NARQUE｜AI 原生科研与探索企业",
+      "seo_en": "About NARQUE | AI-Native Research and Exploration",
+      "description_zh": "了解序束的长期使命、METRE、XREM、AIOS，以及序场 NARQUE Field 和合作方式。",
+      "description_en": "Learn about NARQUE, its long-term mission, research systems, NARQUE Field and opportunities to connect.",
+      "blocks": [
+        {
+          "id": "about.hero",
+          "type": "hero",
+          "zh": {
+            "title": "秩序生于约束。",
+            "text": "序束是一家面向机器经济时代的 AI 原生科研与探索企业。我们研究机器经济的运行规律，探索新的科学与生产可能，并寻找未来仍然稀缺的经济价值来源。"
+          },
+          "en": {
+            "title": "Order Emerges Through Constraint.",
+            "text": "NARQUE is an AI-native research and exploration company focused on the machine-economy era. We study emerging economic laws, investigate new scientific and productive possibilities, and seek to understand where enduring economic value may arise."
+          }
+        },
+        {
+          "id": "about.longterm",
+          "type": "essay",
+          "zh": {
+            "title": "我们的长期追求",
+            "text": "用理论认识新经济，用科学发现新生产力，用资本布局新稀缺，让机器持续拓展人类文明的可能边界。"
+          },
+          "en": {
+            "title": "Our Long-Term Ambition",
+            "text": "To understand the new economy through theory, discover new productive capabilities through science, and position capital around emerging scarcity—expanding the possibilities available to human civilisation."
+          }
+        },
+        {
+          "id": "about.synthesis",
+          "type": "framework",
+          "zh": {
+            "title": "一套理论，两大价值引擎",
+            "text": "METRE：构建机器经济理论并提出能够接受检验的经济问题。\nXREM：自主探索未知，发现与验证新规律、新生产要素和新生产函数。\nAIOS：研究未来经济价值如何形成、流向何处，以及如何以资本参与其长期变化。"
+          },
+          "en": {
+            "title": "One Theory Foundation. Two Value Engines.",
+            "text": "METRE: develop theory and testable questions about machine economies.\nXREM: explore unknowns and investigate new laws, factors of production, and production functions.\nAIOS: study where future economic value emerges, who captures it, and how capital may participate in long-term change."
+          }
+        },
+        {
+          "id": "about.ai_native",
+          "type": "essay",
+          "zh": {
+            "title": "让机器承担更多真实研究工作",
+            "text": "序束希望把持续研究、信息整理、模型推演、技术实现和可重复验证尽可能交给机器，把科学判断、重大资源、合作关系与不可逆决策保留在清晰的人类责任结构中。我们衡量的不是运行多少个 Agent，而是是否产生更可靠的知识与现实价值。"
+          },
+          "en": {
+            "title": "An AI-Native Way of Working",
+            "text": "NARQUE aims to place sustained research, information synthesis, modelling, technical implementation, and repeatable verification increasingly in machine-led workflows, while keeping scientific accountability, major resources, external relationships, and irreversible decisions within clear human responsibility. The measure is not the number of agents running, but the quality of knowledge and real-world value produced."
+          }
+        },
+        {
+          "id": "about.capital",
+          "type": "essay",
+          "zh": {
+            "title": "让发现与现实资本相互连接",
+            "text": "重大科学发现需要实验设施、工程转化和持续投入。序束研究如何在清晰的权利、成本和责任条件下，让知识、新生产能力与长期资本形成良性循环。"
+          },
+          "en": {
+            "title": "Connecting Discovery and Real-World Capital",
+            "text": "Major discoveries require experiments, engineering, and sustained investment. NARQUE studies how knowledge, productive capabilities, and long-term capital can reinforce each other through clear rights, costs, and responsibilities."
+          }
+        },
+        {
+          "id": "about.field",
+          "type": "feature",
+          "zh": {
+            "title": "序场 NARQUE Field｜AI 与你",
+            "text": "序场是序束面向现实世界的连接空间。它希望让人与 AI、人与人、真实问题、研究伙伴和资本在自由而有方向的关系中相遇。它坚持“以你为主，彼此为主体”，让共同创造从真实的好奇与问题出发。"
+          },
+          "en": {
+            "title": "NARQUE Field | AI and You",
+            "text": "NARQUE Field is envisioned as a place for connections with the real world: where people meet AI, each other, meaningful problems, research partners, and capital. Its guiding principle—“You lead with your own purpose; we meet as independent participants”—begins collaboration with genuine curiosity and shared choice."
+          }
+        },
+        {
+          "id": "about.partnership",
+          "type": "essay",
+          "zh": {
+            "title": "我们期待连接怎样的伙伴？",
+            "text": "科学研究者｜共同定义有意义的未知、建立有区分力的验证。\n产业与技术伙伴｜连接真实工程、实验能力和生产问题。\n资本与长期合作伙伴｜研究机器经济的结构性变化与长期价值。"
+          },
+          "en": {
+            "title": "Who We Hope to Connect With",
+            "text": "Researchers | Frame meaningful unknowns and build discriminating scientific tests.\nIndustry and technology partners | Connect real engineering, experimental capacity, and production problems.\nCapital and long-term partners | Study structural changes and enduring value in the emerging machine economy."
+          }
+        },
+        {
+          "id": "about.contact",
+          "type": "closing",
+          "zh": {
+            "title": "与序束建立联系。",
+            "text": "科研问题、技术验证、产业合作与长期资本研究，欢迎通过官网联系序束。"
+          },
+          "en": {
+            "title": "Connect With NARQUE.",
+            "text": "For scientific questions, technical validation, industry partnerships, and long-horizon capital research, contact NARQUE through the official site."
+          },
+          "target": "mailto:hello@narque.ai",
+          "editorial_note": "Existing public site lists hello@narque.ai; confirm delivery and approval before publication.",
+          "links": {
+            "zh": "mailto:hello@narque.ai",
+            "en": "mailto:hello@narque.ai"
+          }
+        }
+      ]
+    }
+  ],
+  "legacy_path_map": {
+    "index.html": "index.html",
+    "en.html": "en/index.html",
+    "machine-economics.html": "metre.html",
+    "research-evidence.html": "research.html",
+    "physical-scarcity.html": "aios.html#scarcity",
+    "current-state.html": "research.html#updates",
+    "what-changed.html": "research.html#insights",
+    "genesis-capital.html": "about.html#capital",
+    "metre-paper01.html": "research.html#papers",
+    "solar.html": "xrem.html#missions",
+    "battery.html": "xrem.html#missions",
+    "aging.html": "xrem.html#missions",
+    "archive.html": "research.html#archive",
+    "about.html": "about.html",
+    "xrem.html": "xrem.html"
+  },
+  "asset_inventory": [
+    "assets/living.png",
+    "assets/material-light.png",
+    "assets/material.png",
+    "assets/monument.png",
+    "assets/specimens.png",
+    "assets/xushu-home-possibility-field-v2.png",
+    "assets/xushu-physical-scarcity-v2.png",
+    "assets/xushu-xrem-search-field-v2.png"
+  ],
+  "contact": {
+    "display_email": "hello@narque.ai",
+    "source": "current About page",
+    "release_dependency": "validate outbound/inbound delivery; no mailbox claim until tested"
+  },
+  "publication_metadata": {
+    "book": {
+      "name": "Machine Economics",
+      "english_edition": "user-approved public statement",
+      "product_url": "verify before binding"
+    },
+    "zenodo_count": 3,
+    "paper_records": "verify title, authors, DOI, release date and version before public outbound linking"
+  },
+  "content_rules": [
+    "No disclaimers or internal Gate jargon in first-screen marketing copy",
+    "Research pages distinguish published bibliographic records from active programmes in their metadata",
+    "No claim of institutional partnership unless signed; use approved research-exchange wording",
+    "Theoretical guidance does not imply XREM scientific or AIOS account authority",
+    "No automatic exposure of non-public Cognition Center, XREM or AIOS states"
+  ],
+  "status_of_publication": "Copy/layout baseline; production deploy not performed"
+}
